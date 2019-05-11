@@ -17,7 +17,9 @@ EditorSettings:
   m_EtcTextureNormalCompressor: 2
   m_EtcTextureBestCompressor: 4
   m_ProjectGenerationIncludedExtensions: txt;xml;fnt;cd
-  m_ProjectGenerationRootNamespace: 
+  m_ProjectGenerationRootNamespace: ssapo
   m_CollabEditorSettings:
     inProgressEnabled: 1
+  m_EnableTextureStreamingInEditMode: 1
   m_EnableTextureStreamingInPlayMode: 1
+  m_AsyncShaderCompilation: 1
